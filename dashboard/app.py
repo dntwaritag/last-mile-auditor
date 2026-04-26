@@ -117,7 +117,7 @@ plt.rcParams.update({
 # ─────────────────────────────────────────────────────────────────────────────
 # DATA LOADING — reads pre-aggregated master_dataset.csv from the notebook
 # ─────────────────────────────────────────────────────────────────────────────
-DATA_PATH = "data/master_dataset.csv"
+DATA_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "master_dataset.csv")
 
 
 @st.cache_data(show_spinner="Loading dataset...")
