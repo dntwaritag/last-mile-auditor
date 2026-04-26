@@ -15,10 +15,9 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Raw Olist CSVs are NOT shipped — only master_dataset.csv is committed
+# Raw Olist CSVs are NOT shipped  only master_dataset.csv is committed
 data/olist_*.csv
 data/product_category_name_translation.csv
 
 # Notebooks (live in the analysis repo, not the dashboard repo)
-*.ipynb
 .ipynb_checkpoints/

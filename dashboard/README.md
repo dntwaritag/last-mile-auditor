@@ -2,7 +2,7 @@
 
 A Streamlit dashboard auditing delivery performance across Brazil for Veridi Logistics. Reads a pre-cleaned master dataset produced by the analysis notebook and renders six charts plus four KPIs.
 
-**Live demo:** _[paste your Streamlit Cloud URL here once deployed]_
+**Live demo:** [_\[paste your Streamlit Cloud URL here once deployed\]_](https://last-mile-auditor-bvqjee7s2tdg7h8dnd5ylr.streamlit.app/)
 
 ## What it shows
 
